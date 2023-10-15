@@ -1,0 +1,1 @@
+import{_ as s}from"./NavBar.b5b59f12.js";import{_ as t,c as a,b as c,a as n,R as r,o as _}from"./entry.4e57f005.js";const m={},p={class:"mx-auto mt-4 max-w-7xl space-y-4 px-4 xs:px-8 sm:px-10 lg:px-16 pb-16 w-3/5"};function l(e,x){const o=s;return _(),a("div",null,[c(o),n("div",p,[r(e.$slots,"default")])])}const u=t(m,[["render",l]]);export{u as default};
